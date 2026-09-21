@@ -398,5 +398,37 @@
     "password": "ordinarylavalink",
     "secure": true,
     "author": "OrdinaryEnder"
+  },
+  {
+    "identifier": "Nazha Main",
+    "host": "lavalink.nazha.online",
+    "port": 443,
+    "password": "nazhafreelava",
+    "secure": true,
+    "author": "Nazha"
+  },
+  {
+    "identifier": "Nazha SG1",
+    "host": "sg-1.nazha.online",
+    "port": 443,
+    "password": "https://discord.gg/XeSCnk57ZF",
+    "secure": true,
+    "author": "Nazha"
+  },
+  {
+    "identifier": "Nazha SG2",
+    "host": "sg-2.nazha.online",
+    "port": 443,
+    "password": "https://discord.gg/XeSCnk57ZF",
+    "secure": true,
+    "author": "Nazha"
+  },
+  {
+    "identifier": "Nazha SG3",
+    "host": "sg-3.nazha.online",
+    "port": 443,
+    "password": "https://discord.gg/XeSCnk57ZF",
+    "secure": true,
+    "author": "Nazha"
   }
 ]
